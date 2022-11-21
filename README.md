@@ -1,3 +1,3 @@
 # MaceraOyunu
 
-Metins Tabanlı bir savaş oyunu
+Metin Tabanlı bir savaş oyunu
